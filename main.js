@@ -48,6 +48,9 @@ const loadRootFiles = function() {
     log('load 运行')
 }
 
+const test = function() {
+}
+
 const __main = function() {
     loadMainWindow()
     loadRootFiles()
