@@ -1,0 +1,9 @@
+body {
+    /*background-color: black;*/
+    width: 500px;
+    height: 600px;
+    background-image: url("images/albumChart.png");
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
